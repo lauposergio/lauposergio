@@ -11,7 +11,7 @@
 <div style="text-align: right;">
   <img src="https://images.squarespace-cdn.com/content/v1/593df14037c58172ed4d5ac9/1497734101092-YV4MY8JSHRJ5KG3HF8T2/helloworld.png?format=1000w" alt="Hello World" style="width: 300px; height: 200px; border: 2px solid black;">
  <p align="left"> 🫡 Olá, eu me chamo Paulo. </p>
- <p align="left">📘 Atualmente curso Administração e estou buscando melhorar meus conhecimentos com programação participando do FEA.dev</p> 
+ <p align="left">📘 Atualmente curso Administração e estou buscando melhorar meus conhecimentos em programação participando do FEA.dev</p> 
  <p align="left">🧠 Interesses: Python, SQL e VBA </p>
  <p align="left">🍃 Futuramente planejo me aventurar no front-end também (: </p>
 
