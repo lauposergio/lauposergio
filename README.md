@@ -14,7 +14,7 @@
 
 <div align="center">
 <h1> Sobre mim: </h1>
-<img src="https://images.squarespace-cdn.com/content/v1/593df14037c58172ed4d5ac9/1497734101092-YV4MY8JSHRJ5KG3HF8T2/helloworld.png?format=1000w" alt="Hello World" style="width: 300px; height: 200px; border: 2px solid black;">
+<img height = "300" width = "400" src="https://images.squarespace-cdn.com/content/v1/593df14037c58172ed4d5ac9/1497734101092-YV4MY8JSHRJ5KG3HF8T2/helloworld.png?format=1000w" alt="Hello World">
  <p> 🫡 Olá, eu me chamo Paulo. </p>
  <p> 📘 Atualmente curso Administração e participo do FEA.dev</p> 
  <p> 🧠 Interesses: Python, SQL e VBA </p>
