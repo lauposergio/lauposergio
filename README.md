@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="left-center">
+<div align="center">
 <h1> Sobre mim: </h1>
 <img src="https://images.squarespace-cdn.com/content/v1/593df14037c58172ed4d5ac9/1497734101092-YV4MY8JSHRJ5KG3HF8T2/helloworld.png?format=1000w" alt="Hello World" style="width: 300px; height: 200px; border: 2px solid black;">
  <p> 🫡 Olá, eu me chamo Paulo. </p>
@@ -23,14 +23,13 @@
 
 <br>
 
-</div>
-<h1 align="center"> Linguagens e ferramentas </h2>
 <div align= "center">
+<h1> Linguagens e ferramentas </h1>
 <img alt = "vscode" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt = "python" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt = " jupyter" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img alt = "pandas" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img alt = "numpy" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />                  
+<img alt = "numpy" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />              
 </div>
 
 <br>
