@@ -21,11 +21,11 @@
 </div>
 <h1 align="center"> Linguagens e ferramentas </h2>
 <div align= "center">
-<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />                  
+<img alt = "vscode" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt = "python" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt = " jupyter" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img alt = "pandas" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img alt = "numpy" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />                  
 </div>
 
 <br>
@@ -39,5 +39,5 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg)
+<img alt = "Cobrinha" src = "https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg" />
       
