@@ -39,5 +39,5 @@
   </a>
 </div>
 
-<img alt = "Cobrinha" src = "https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg" />
+![snake gif](https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg)
       
