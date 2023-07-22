@@ -16,4 +16,5 @@
  <p align="left">🍃 Futuramente planejo me aventurar no front-end também (: </p>
 
 </div>
-![snake gif](https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg)
+
+![Snake animation](https://github.com/lauposergio/lauposergio/blob/output/github-contribution-grid-snake.svg)
