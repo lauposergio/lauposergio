@@ -17,4 +17,25 @@
 
 </div>
 
+## GitHub Stats
+<div>
+  <a href="https://github.com/lauposergio">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lauposergio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauposergio&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
 ![Snake animation](https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg)
+
+## Linguagens e ferramentas
+<div>
+<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+                    
+</div>          
+          
+          
+
