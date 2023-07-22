@@ -17,4 +17,4 @@
 
 </div>
 
-![Snake animation](https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg) 
+![Snake animation](https://github.com/lauposergio/lauposergio/blob/output/snake_game.svg) 
