@@ -43,5 +43,7 @@
   </a>
 </div>
 
-![snake gif](https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg)
+<div align = "center" >
+<img alt = "snake gif" src="https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg" />
+</div>
       
