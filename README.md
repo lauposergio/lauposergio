@@ -15,9 +15,23 @@
  <p align="left">🧠 Interesses: Python, SQL e VBA </p>
  <p align="left">🍃 Futuramente planejo me aventurar no front-end também (: </p>
 
+--------
+
+<br>
+</div>
+<h1 align="center"> Linguagens e ferramentas </h2>
+<div align= "center">
+<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />                  
 </div>
 
-## GitHub Stats
+<br>
+<br>
+
+<h1 align="center"> GitHub Stats </h2>
 <div>
   <a href="https://github.com/lauposergio">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lauposergio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,16 +40,4 @@
 </div>
 
 ![Snake animation](https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg)
-
-## Linguagens e ferramentas
-<div>
-<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-                    
-</div>          
-          
-          
-
+      
