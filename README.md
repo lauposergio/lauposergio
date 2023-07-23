@@ -38,8 +38,8 @@
 <div align="center">
 <h1> GitHub Stats </h1>
   <a href="https://github.com/lauposergio">
-  <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api?username=GvFreitas1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GvFreitas1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api?username=lauposergio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauposergio&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
