@@ -44,7 +44,7 @@
 </div>
 
 <div align = "center" >
-<img alt = "snake gif" src="https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg" />
+<img alt = "snake gif" src="https://github.com/lauposergio/lauposergio/blob/output/snake_gif_github.svg" />
 <br>
 <br>
 <p align="center"><b>Visitors Count</b></p>  
